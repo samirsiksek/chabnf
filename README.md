@@ -1,4 +1,4 @@
-#Explicit Chabauty over Number Fields
+# Explicit Chabauty over Number Fields
 
 This directory contains programs needed for the computational part
 of the paper
